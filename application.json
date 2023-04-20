@@ -1,8 +1,24 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "HOME PAGE DO NOT EDIT",
       "isDefault": true
+    },
+    {
+      "id": "Mary Page1",
+      "isDefault": false
+    },
+    {
+      "id": "Mary Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Frank Page 1",
+      "isDefault": false
+    },
+    {
+      "id": "Frank Page2",
+      "isDefault": false
     }
   ],
   "viewMode": false,
