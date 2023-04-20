@@ -1,0 +1,1 @@
+{{delete_bead_product.data}}
