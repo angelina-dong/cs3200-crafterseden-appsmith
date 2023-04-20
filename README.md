@@ -9,3 +9,6 @@ This app is built using Appsmith. Turn any datasource into an internal app in mi
 ##### You can visit the application using the below link
 
 ###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](http://localhost:8080/applications/64409b5e9ddca553c182a342/pages/64409b5e9ddca553c182a345) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](http://localhost:8080/applications/64409b5e9ddca553c182a342/pages/64409b5e9ddca553c182a345/edit)
+
+
+This appsmith repo is specifically for use for a Spring 2023 CS3200-Database Design Phase 3 group project, for a database called Crafters' Eden, whose repository is linked [here](https://github.com/angelina-dong/crafterseden-boilerplate). 
